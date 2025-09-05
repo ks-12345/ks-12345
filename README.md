@@ -63,7 +63,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🐍 Animação dos commits
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ks-12345/ks-12345/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
