@@ -29,7 +29,7 @@ Site moderno com sistema de agendamento de clientes.
 
 #### 🍕 Pizzaria Delivery  
 Site interativo para uma pizzaria fictícia, com cardápio dinâmico, sistema de pedidos e layout responsivo.  
-🔗 [Ver projeto](https://github.com/ks-12345/pizzaria-delivery)
+🔗 [Ver projeto]([https://github.com/ks-12345/Pizzaria_Mestre_Da_Pizza])
 
 ---
 
