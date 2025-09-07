@@ -6,7 +6,6 @@
 🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
 💻 Experiência com Power Apps, SharePoint e Automação com Power Automate  
 🌐 Criando projetos de sites e aplicativos para estudos e portfólio  
-✨ Interessada em Front-End, Back-End e soluções low-code
 
 ---
 
