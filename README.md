@@ -18,19 +18,6 @@
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
-### 💼 Projetos em destaque
-
-#### ✂️ Barbearia Online  
-Site moderno com sistema de agendamento de clientes.  
-🔗 [Ver projeto](https://github.com/ks-12345/barbearia-online)
-
-#### 🍕 Pizzaria Delivery  
-Site interativo para uma pizzaria fictícia, com cardápio dinâmico, sistema de pedidos e layout responsivo.  
-🔗 [Ver projeto](https://github.com/ks-12345/Pizzaria_Mestre_Da_Pizza)
-
----
 
 ### 📊 Estatísticas
 
