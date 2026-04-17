@@ -1,7 +1,5 @@
 <!-- Banner animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7A3FF2&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Brenda+👋;Desenvolvedora+em+forma%C3%A7%C3%A3o;Bem-vindo+ao+meu+GitHub!" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7A3FF2&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Brenda+👋;Desenvolvedora+em+forma%C3%A7%C3%A3o;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ---
 
