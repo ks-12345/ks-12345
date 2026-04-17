@@ -38,7 +38,10 @@
 <p align="center">
   <img src="https://github.com/ks-12345/ks-12345/blob/output/github-contribution-grid-snake.svg"/>
 </p>
-
+<p align="center">
+  <img src="https://github.com/ks-12345/ks-12345/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://github.com/ks-12345/ks-12345/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p>
 ---
 
 ## 📬 Contato
