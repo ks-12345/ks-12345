@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ks-12345&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks-12345&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🐍 Contribuições
 <p align="center">
   <img src="https://github.com/ks-12345/ks-12345/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
@@ -51,7 +42,5 @@
 
 
 ## ✨ Sobre este perfil
-
-Este repositório é especial porque seu `README.md` aparece no meu perfil do GitHub.
 
 ⭐ Se gostou do meu trabalho, considere seguir e acompanhar meus projetos!
